@@ -109,3 +109,11 @@
 执行 `notebooks/` 下的 `SQL查询代码.sql` 文件。
 #### 3. 查看仪表板
 用 Power BI Desktop 打开 `PBI/` 中的 `PBI可视化分析展示.pbix` 文件即可。
+
+# 部分截图
+<img width="1524" height="1149" alt="清洗及分析部分截图" src="https://github.com/user-attachments/assets/9b960878-ed36-4ce7-af3e-492dd7310a43" />
+<img width="1605" height="1053" alt="PBI可视化分析截图" src="https://github.com/user-attachments/assets/6caf5b5e-05bf-4e2b-af75-a7f7c9dabfbe" />
+
+
+
+
